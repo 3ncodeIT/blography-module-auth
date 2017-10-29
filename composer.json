@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "3ncodeIT/blography-module-auth",
   "version": "0.1.0",
   "author": "Josh Harington",
   "description": "",
@@ -8,7 +8,7 @@
   "type": "package",
   "autoload": {
     "psr-4": {
-      "Vendor\\Package\\": "packages/Vendor/Package/src"
+      "_3ncode\\Auth\\": "src"
     }
-  },
+  }
 }
